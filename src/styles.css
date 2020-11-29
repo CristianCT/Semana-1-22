@@ -1,0 +1,31 @@
+.team{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.team div{
+
+    width: 250px;
+    height: 540px;
+    margin: 10px;
+}
+
+.team div p{
+
+    text-align: justify;
+}
+
+.team div h2{
+
+    font-size: 20px;
+}
+
+.member{
+
+    width: 100%;
+    height: 50%;
+}
+
+
